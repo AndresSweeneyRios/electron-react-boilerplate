@@ -1,10 +1,10 @@
-# electron-webpack-boilerplate
-Boilerplate for a vanilla Webpack configuration with Electron.
+# electron-react-boilerplate
+Boilerplate for a React + Webpack configuration with Electron.
 
 ## Installation
 ```
-git clone https://github.com/Andr3wRiv3rs/electron-webpack-boilerplate
-cd electron-webpack-boilerplate
+git clone https://github.com/Andr3wRiv3rs/electron-react-boilerplate
+cd electron-react-boilerplate
 npm install
 ```
 
