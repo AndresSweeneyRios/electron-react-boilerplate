@@ -10,7 +10,14 @@ module.exports = {
     parser: 'babel-eslint',
     allowImportExportEverywhere: false,
     ecmaVersion: 2020,
+    ecmaFeatures: {
+      jsx: true,
+    },
   },
+  
+  plugins: [
+    'react',
+  ],
 
   rules: {
     
